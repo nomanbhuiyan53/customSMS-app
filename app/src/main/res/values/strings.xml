@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMStoCM</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="select_payment_date">select payment date:</string>
+</resources>

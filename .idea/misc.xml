@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.13489583333333333" />
+        <entry key="app/src/main/res/drawable/btn_color.xml" value="0.2651282051282051" />
+        <entry key="app/src/main/res/drawable/btn_send.xml" value="0.2651282051282051" />
+        <entry key="app/src/main/res/drawable/edit_text_redius.xml" value="0.2651282051282051" />
+        <entry key="app/src/main/res/drawable/privew_btn.xml" value="0.2651282051282051" />
+        <entry key="app/src/main/res/drawable/save_btn_color.xml" value="0.26927083333333335" />
+        <entry key="app/src/main/res/drawable/updatebtn.xml" value="0.26927083333333335" />
+        <entry key="app/src/main/res/layout/activity_alldata_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.18342391304347827" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_smsbox1.xml" value="0.2899314483509947" />
+        <entry key="app/src/main/res/layout/recycel_custom_view.xml" value="0.22509057971014493" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

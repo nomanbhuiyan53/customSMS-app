@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920308711254",
+    "project_id": "easysms-7c0d4",
+    "storage_bucket": "easysms-7c0d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920308711254:android:1610903284269c264de0f7",
+        "android_client_info": {
+          "package_name": "com.softbard.easysms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920308711254-9pqp1j4d4p0ah40e3h0kqcnqrj73mob1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMezcgbqpYBx-GizVFbpJ8AqwAMLvhVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920308711254-9pqp1j4d4p0ah40e3h0kqcnqrj73mob1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
